@@ -1,0 +1,206 @@
+body {
+    color: #333;
+    margin: 0;
+}
+/* ===== NAVBAR ===== */
+.logo span {
+    color: #C9A84C;
+}
+
+
+/* ===== HERO SECTION ===== */
+.hero {
+    background-image: url("/Assets/Images/hero-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    background: linear-gradient(135deg, #1A1A2E 0%, #16213E 50%, #0F3460 100%);
+    color: #fff;
+}
+
+.hero p {
+    color: #D1D5DB;
+}
+
+.hero button {
+    background-color: #fff;
+    color: #1A1A2E;
+}
+
+/* ===== PROJECTS SECTION ===== */
+.projects {
+    background-color: #fff;
+}
+
+.projects h2 {
+    color: #1A1A2E;
+}
+
+.projects .subtitle {
+    color: #6B7280;
+}
+
+.projects .card {
+    /* max-width: 450px; */
+    border: 1px solid #E5E7EB;
+    overflow: hidden;
+}
+
+.projects .card:hover {
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.projects .title {
+    color: #1A1A2E;
+}
+
+.projects .description {
+    color: #6B7280;
+}
+
+.projects img {
+    height: 350px;
+}
+
+.projects .tag {
+    background-color: #F0E6C8;
+    color: #8B7024;
+    border-radius: 20px;
+    padding: 3px 10px;
+    font-size: 0.9rem;
+}
+
+.projects .row {
+    /* grid-gap: 20px; */
+}
+
+/* ===== SERVICES SECTION ===== */
+.services {
+    background-color: #F9F7F2;
+}
+
+.services .card {
+    background-color: #fff;
+    border: 1px solid #E5E7EB !important;
+    align-items: center;
+    padding: 20px 30px;
+}
+
+.services .bi {
+    width: 30px;
+    height: 30px;
+    background-color: #1A1A2E;
+    color: #C9A84C;
+    border-radius: 5px;
+    align-content: center;
+    margin-bottom: 10px;
+}
+
+.services h4 {
+    color: #1A1A2E;
+}
+
+.services .card p {
+    color: #6B7280;
+}
+
+/* ===== TEAM SECTION ===== */
+.team {
+    background-color: #fff;
+}
+
+.team .card {
+    background-color: #F9FAFB;
+    max-width: 450px;
+}
+
+.team .bi {
+    font-size: 25px;
+    color: #C9A84C;
+}
+
+.team h4 {
+    color: #1A1A2E;
+}
+
+.team .role {
+    color: #C9A84C;
+}
+
+.team p {
+    color: #6B7280;
+}
+
+/* ===== CONTACT SECTION ===== */
+.contact {
+    background-color: #fff;
+}
+
+.benefits li {
+    color: #374151;
+}
+
+form {
+    background-color: #F9FAFB;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.form-control {
+    border: 1px solid #D1D5DB !important;
+}
+
+.form-control:focus {
+    border: 1px solid #C9A84C !important;
+    box-shadow: 0 0 0 3px rgba(201, 168, 76, 0.15);
+}
+
+.form-label {
+    color: #374151;
+    font-weight: bold;
+}
+
+.contact .btn {
+    background-color: #1A1A2E;
+    color: #fff;
+}
+
+.contact .btn:hover {
+    color: #2D2D4E;
+}
+
+.contact .bi {
+    color: #C9A84C;
+}
+
+.contact ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* ===== FOOTER ===== */
+footer {
+    background-color: #1A1A2E;
+}
+
+footer .subtitle {
+    color: #9CA3AF;
+}
+
+footer a {
+    color: #9CA3AF;
+    text-decoration: none;
+    margin: 15px;
+}
+
+footer a:hover {
+    color: #fff;
+}
+
+.copyright {
+    color: #6B7280;
+}
+
+/* ===== RESPONSIVE ===== */
+
+
+
